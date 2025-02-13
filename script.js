@@ -53,3 +53,4 @@ function displayDhanbi() {
         document.getElementById('options').style.display = 'none';
     };
 }
+displayHamster();
